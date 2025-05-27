@@ -1,4 +1,7 @@
 # ola, mundo como vai
  primeiro repositorio 
  aprendendo git
- orea seca
+ coca cola
+
+## gravando mudancas
+ espumante
